@@ -6,3 +6,6 @@
 #### s7j6agw
 ### Meet link
 #### https://meet.google.com/lookup/f7ibsentjs
+
+## ADMIN INSTRUCTIONS 
+https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/ADMIN%20INSTRUCTIONS
