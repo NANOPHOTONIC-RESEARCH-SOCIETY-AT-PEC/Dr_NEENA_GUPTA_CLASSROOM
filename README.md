@@ -7,6 +7,9 @@
 ### Meet link
 #### https://meet.google.com/lookup/f7ibsentjs
 
+## ATTENDANCE COMPILATIONS
+https://docs.google.com/spreadsheets/d/1iQVd9KPK5h7baaHin2ztPfsGc4YZSRrqfDpoiGd7HEw/edit#gid=1159545257
+
 ## ADMIN INSTRUCTIONS 
 https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/ADMIN%20INSTRUCTIONS
 
@@ -35,5 +38,4 @@ https://docs.google.com/presentation/d/1QhBN6ecFi3cKw-iOZen2IM5t_dU04qjnd-HXFiWr
 
 ## Tutorial-6 
 ### NON LINEAR OPTICS
-https://docs.google.com/presentation/d/1bdUrzGaaTiOwvoc3aWkKqZ9Z763q0gFLmskichuhwsc/edit#slide=id.p1
 https://docs.google.com/presentation/d/1bdUrzGaaTiOwvoc3aWkKqZ9Z763q0gFLmskichuhwsc/edit
