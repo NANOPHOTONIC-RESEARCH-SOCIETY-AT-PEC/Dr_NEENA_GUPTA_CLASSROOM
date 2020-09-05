@@ -8,8 +8,12 @@
 ### Meet link
 #### https://meet.google.com/lookup/f7ibsentjs
 
-## ATTENDANCE COMPILATIONS
-https://docs.google.com/spreadsheets/d/1iQVd9KPK5h7baaHin2ztPfsGc4YZSRrqfDpoiGd7HEw/edit#gid=1159545257
+## ATTENDANCE COMPILATIONS 
+#### This link is for Admins only
+https://docs.google.com/spreadsheets/d/1iQVd9KPK5h7baaHin2ztPfsGc4YZSRrqfDpoiGd7HEw/edit#gid=1159545257 
+
+#### *students can check the excel below 
+https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/COMPILED-ATTENDANCE-TILL-Sep-1-2020/files/5177908/optical.communicatiion.with.Dr.neena.Gupta.ECE.-.Attendance.Comilation.1.xlsx
 
 ## ADMIN INSTRUCTIONS 
 https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/ADMIN%20INSTRUCTIONS
