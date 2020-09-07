@@ -13,7 +13,7 @@
 https://docs.google.com/spreadsheets/d/1iQVd9KPK5h7baaHin2ztPfsGc4YZSRrqfDpoiGd7HEw/edit#gid=1159545257 
 
 #### *students can check the excel below 
-https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/COMPILED-ATTENDANCE-TILL-Sep-1-2020/files/5177908/optical.communicatiion.with.Dr.neena.Gupta.ECE.-.Attendance.Comilation.1.xlsx
+https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/optical%20communicatiion%20with%20Dr.%20neena%20Gupta%20(ECE)-%20Attendance%20Compilation.pdf
 
 ## ADMIN INSTRUCTIONS 
 https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/ADMIN%20INSTRUCTIONS
