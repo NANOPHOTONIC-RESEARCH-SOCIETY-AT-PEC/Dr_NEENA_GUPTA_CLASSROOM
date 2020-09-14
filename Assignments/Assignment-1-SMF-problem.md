@@ -1,4 +1,4 @@
-# Assignment-1 
+# Assignment-1-SMF-Problem 
 
 **GIVEN**
 
@@ -21,3 +21,5 @@ a) design for a step-index profile
 b) design for a quadratic graded profile (p=2)
 
 c) Finally show the  variation of NA (numerical aperture) with the acceptance angle with your choices
+
+**HInt : Use the cheat sheet provided to you
