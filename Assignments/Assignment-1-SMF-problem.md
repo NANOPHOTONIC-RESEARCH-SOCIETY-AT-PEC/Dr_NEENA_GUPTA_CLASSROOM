@@ -23,3 +23,7 @@ b) design for a quadratic graded profile (p=2)
 c) Finally show the  variation of NA (numerical aperture) with the acceptance angle with your choices
 
 **HInt : Use the cheat sheet provided to you
+
+You need to attach your hand written solution here and for that check following link 
+
+https://github.community/t/how-do-you-put-images-on-the-readme-md-file/576
