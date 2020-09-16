@@ -24,6 +24,6 @@ c) Finally show the  variation of NA (numerical aperture) with the acceptance an
 
 **HInt : Use the cheat sheet provided to you
 
-You need to attach your hand written solution here and for that check following link 
+You need to attach your hand written solution here
 
 https://docs.google.com/forms/d/1fTdrQrdXzKRF7y7MUjvOiX3Fyf66Uie6looV_x7FI8Y/edit
