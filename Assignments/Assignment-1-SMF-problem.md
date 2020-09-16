@@ -26,4 +26,4 @@ c) Finally show the  variation of NA (numerical aperture) with the acceptance an
 
 You need to attach your hand written solution here and for that check following link 
 
-https://github.community/t/how-do-you-put-images-on-the-readme-md-file/576
+https://docs.google.com/forms/d/1fTdrQrdXzKRF7y7MUjvOiX3Fyf66Uie6looV_x7FI8Y/edit
