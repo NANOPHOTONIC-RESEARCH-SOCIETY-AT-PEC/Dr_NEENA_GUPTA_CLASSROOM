@@ -4,11 +4,11 @@
 
 ### Three products for SMF(single mode fiber) transmission at a wavelength;
 
--a-> 1.3 micro-meter
+* 1.3 micro-meter
 
--b-> 1.5 micro-meter
+* 1.5 micro-meter
 
--c-> Bothe 1.3 and 1.5 micro-meter
+* Both 1.3 and 1.5 micro-meter
 
 ## Create design curve that co-relate the core diameter, d to the fractional index change, delta
 
