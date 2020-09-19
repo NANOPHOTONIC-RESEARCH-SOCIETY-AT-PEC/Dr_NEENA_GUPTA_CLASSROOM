@@ -20,6 +20,7 @@ c) Finally show the variation of NA (numerical aperture) with the acceptance ang
 
 
 # Acknowledgements
+- [Tejashwi Pradhan](https://github.com/tejashwip), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university). 
 - [Kajal Chhajer](https://github.com/KajalChhajer), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university). 
 - [Kritika Garg](https://github.com/kritikagarg-pec), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university).
 - [Anurag Sharma](https://github.com/designerguy13-photonics), PhD Research Fellow, @PEC(Deemed to be university).
