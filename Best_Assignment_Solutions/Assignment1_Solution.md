@@ -16,12 +16,15 @@ c) Finally show the variation of NA (numerical aperture) with the acceptance ang
 
 ## Solution here
 
-[FInd the documented Solution here](https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/OpticalAssignment-1-Solution.ipynb)
+[FInd the documented Solution-1 here- By Kajal](https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/OpticalAssignment-1-Solution.ipynb)
+
+[FInd the documented soluiton-2 here- By Aditya Mittal](https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/Aditya%20Mittal%20-%20optical%20script.ipynb)
 
 
 # Acknowledgements
 - [Tejashwi Pradhan](https://github.com/tejashwip), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university). 
 - [Kajal Chhajer](https://github.com/KajalChhajer), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university). 
+- [Aditya Mittal](https://github.com/aditya-mittal-17105075), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university). 
 - [Kritika Garg](https://github.com/kritikagarg-pec), B.Tech-ECE [2017-2021] Batch @PEC(Deemed to be university).
 - [Anurag Sharma](https://github.com/designerguy13-photonics), PhD Research Fellow, @PEC(Deemed to be university).
 - [Dr Neena Gupta](https://github.com/ng65-photonics), Professor & HEAD-ECE, @PEC(Deemed to be university).
