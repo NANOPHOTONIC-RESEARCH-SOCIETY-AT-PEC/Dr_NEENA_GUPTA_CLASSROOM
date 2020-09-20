@@ -16,9 +16,9 @@ c) Finally show the variation of NA (numerical aperture) with the acceptance ang
 
 ## Solution here
 
-[FInd the documented Solution-1 here- By Kajal](https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/OpticalAssignment-1-Solution.ipynb)
+[FInd the documented Solution-1 here- By Kajal](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/Codes/Kajal_Chhajer_OpticalAssignment-1-Solution.ipynb)
 
-[FInd the documented soluiton-2 here- By Aditya Mittal](https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/Aditya%20Mittal%20-%20optical%20script.ipynb)
+[FInd the documented soluiton-2 here- By Aditya Mittal](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/Dr_NEENA_GUPTA_CLASSROOM/blob/master/Codes/Aditya%20Mittal%20-%20optical%20script.ipynb)
 
 
 # Acknowledgements
