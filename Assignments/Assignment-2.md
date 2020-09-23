@@ -21,4 +21,5 @@
 
 7.   * Mention any two materials system used in the fabrication of optical fibers. Explain the vapor-phase deposition techniques to produce silica rich glasses of          highest transparency.
 
-### DEADLINE TO SUBMIT - 25-SEP-2020
+### DEADLINE TO SUBMIT - 25-SEP-2020 
+**Make sure you submit hand-written solutions**
