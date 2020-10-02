@@ -19,4 +19,5 @@
      
      
      
-## DEADLINE TO SUBMIT 02-OCTOBER, 2020
+## DEADLINE TO SUBMIT 07-OCTOBER, 2020
+## Submit hand-written solutions at google classroom by turning In option
