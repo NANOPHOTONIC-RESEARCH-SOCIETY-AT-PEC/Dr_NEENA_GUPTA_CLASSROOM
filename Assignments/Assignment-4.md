@@ -50,7 +50,7 @@ You are free to chose any of the topics mentioned below or any other topic if no
 text size = 14 for Headings.**
 
 **Add relevant figures to explain the literature in terms of your interpretation
-(Some original and creative figure representations is anticipated)**
+(Some original and creative figure representations are anticipated)**
 
 **Minimum Word Length = 1500 while no limite for max limit**
 
