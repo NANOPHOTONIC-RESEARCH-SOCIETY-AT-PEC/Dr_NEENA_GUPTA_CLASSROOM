@@ -49,12 +49,12 @@ You are free to chose any of the topics mentioned below or any other topic if no
 **The case study document should be written in word format, Times new roman (text size = 12) for body and 
 text size = 14 for Headings.**
 
-**Add relevant figures to explain the literature in terms of your interpretation
-(Some original and creative figure representations are anticipated)**
+**Add relevant figures, Tabular form of datasets to explain the literature in terms of your interpretation
+(Some original and creative figure representations are also anticipated)**
 
 **Minimum Word Length = 1500 while no limite for max limit**
 
-**Yoou must also cite the research articles as IEEE format ( example [1] means reference 1 
+**You must also cite the research articles as IEEE format ( example [1] means reference 1 
 and add the bibliography at the end as follows**
 
 [1] Shi, B.; Calabretta, N.; Jordan, R.S. Numerical Simulation of an InP Photonic Integrated Cross-Connect for Deep Neural Networks on Chip. Appl. Sci. 2020, 10, 474.
