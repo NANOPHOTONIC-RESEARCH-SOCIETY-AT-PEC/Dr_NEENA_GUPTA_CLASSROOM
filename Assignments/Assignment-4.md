@@ -66,7 +66,17 @@ and add the bibliography at the end as follows**
 
 - So GIVE YOUR BEST !!
 
+**HINT
 
+- You must include atleast following journals for recent literature 
+-- SPIE
+-- IEEE Photonics Journal
+-- Nature Photonics
+-- APL Photonics
+-- Frontiers
+-- IOP 
+-- MDPI
+-- Elsevier
 
      
 ## DEADLINE TO SUBMIT 15-OCTOBER, 2020
